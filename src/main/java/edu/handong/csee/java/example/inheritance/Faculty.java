@@ -34,7 +34,7 @@ public class Faculty extends Person{
 
 	public void writeOutput() {
 		System.out.println("Name: " + getName());
-		System.out.println("Student Number: " + facultyNumber); 
+		System.out.println("faculty Number: " + facultyNumber); 
 	}
 
 }
